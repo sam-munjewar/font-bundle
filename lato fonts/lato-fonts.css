@@ -1,0 +1,61 @@
+// Lato Font
+// Google
+// Apache License, version 2.0
+// http://www.apache.org/licenses/LICENSE-2.0.html
+
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal; 
+    font-weight: bold;
+    src: local("Lato Bold"), local("Lato-Bold"), url("Lato-Bold.woff2") format("woff2"), url("Lato-Bold.woff") format("woff"), url("Lato-Bold.ttf") format("truetype");        
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal; 
+    font-weight: 300;
+    src: local("Lato Light"), local("Lato-Light"), url("Lato-Light.woff2") format("woff2"), url("Lato-Light.woff") format("woff"), url("Lato-Light.ttf") format("truetype");         
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal; 
+    font-weight: 900;
+    src: local("Lato Black"), local("Lato-Black"), url("Lato-Black.woff2") format("woff2"), url("Lato-Black.woff") format("woff"), url("Lato-Black.ttf") format("truetype");        
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    src: local("Lato Medium"), local("Lato-Medium"), url("Lato-Medium.woff2") format("woff2"), url("Lato-Medium.woff") format("woff"), url("Lato-Medium.ttf") format("truetype");         
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal; 
+    font-weight: 900;
+    src: local("Lato Heavy"), local("Lato-Heavy"), url("Lato-Heavy.woff2") format("woff2"), url("Lato-Heavy.woff") format("woff"), url("Lato-Heavy.ttf") format("truetype");         
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal; 
+    font-weight: normal;
+    src: local("Lato Regular"), local("Lato-Regular"), url("Lato-Regular.woff2") format("woff2"), url("Lato-Regular.woff") format("woff"), url("Lato-Regular.ttf") format("truetype");        
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;  
+    font-weight: 100;
+    src: local("Lato Thin"), local("Lato-Thin"), url("Lato-Thin.woff2") format("woff2"), url("Lato-Thin.woff") format("woff"), url("Lato-Thin.ttf") format("truetype");        
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal; 
+    font-weight: 600;
+    src: local("Lato Semibold"), local("Lato-Semibold"), url("Lato-Semibold.woff2") format("woff2"), url("Lato-Semibold.woff") format("woff"), url("Lato-Semibold.ttf") format("truetype");          
+}
