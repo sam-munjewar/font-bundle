@@ -1,0 +1,74 @@
+
+
+@font-face {
+    font-family: 'OpenSansBold';
+    font-weight: bold;
+    font-style: normal;
+    src: url('OpenSans-Bold.eot');
+    src: url('OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-Bold.woff2') format('woff2'),
+        url('OpenSans-Bold.woff') format('woff'),
+        url('OpenSans-Bold.ttf') format('truetype'),
+        url('OpenSans-Bold.svg#OpenSans-Bold') format('svg');
+}
+
+@font-face {
+    font-family: 'OpenSansSemiBold';
+    font-weight: 600;
+    font-style: normal;
+    src: url('OpenSans-Semibold.eot');
+    src: url('OpenSans-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-Semibold.woff2') format('woff2'),
+        url('OpenSans-Semibold.woff') format('woff'),
+        url('OpenSans-Semibold.ttf') format('truetype'),
+        url('OpenSans-Semibold.svg#OpenSans-Semibold') format('svg');
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-weight: normal;
+    font-style: normal;
+    src: url('OpenSans.eot');
+    src: url('OpenSans.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans.woff2') format('woff2'),
+        url('OpenSans.woff') format('woff'),
+        url('OpenSans.ttf') format('truetype'),
+        url('OpenSans.svg#OpenSans') format('svg');
+}
+
+@font-face {
+    font-family: 'OpenSansLight';
+    font-weight: 300;
+    font-style: normal;
+    src: url('OpenSans-Light.eot');
+    src: url('OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-Light.woff2') format('woff2'),
+        url('OpenSans-Light.woff') format('woff'),
+        url('OpenSans-Light.ttf') format('truetype'),
+        url('OpenSans-Light.svg#OpenSans-Light') format('svg');
+}
+
+@font-face {
+    font-family: 'OpenSansExtraBold';
+    font-weight: 800;
+    font-style: normal;
+    src: url('OpenSans-Extrabold.eot');
+    src: url('OpenSans-Extrabold.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-Extrabold.woff2') format('woff2'),
+        url('OpenSans-Extrabold.woff') format('woff'),
+        url('OpenSans-Extrabold.ttf') format('truetype'),
+        url('OpenSans-Extrabold.svg#OpenSans-Extrabold') format('svg');
+}
+
+@font-face {
+    font-family: 'OpenSansCondensed';
+    font-weight: bold;
+    font-style: normal;
+    src: url('OpenSans-CondensedBold.eot');
+    src: url('OpenSans-CondensedBold.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-CondensedBold.woff2') format('woff2'),
+        url('OpenSans-CondensedBold.woff') format('woff'),
+        url('OpenSans-CondensedBold.ttf') format('truetype'),
+        url('OpenSans-CondensedBold.svg#OpenSans-CondensedBold') format('svg');
+}
+
